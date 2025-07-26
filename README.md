@@ -7,7 +7,7 @@
 # Previsão de Importação - Sorriso-MT
 
 > **Emissão:** 06-2025
-> Para fins de comparação, também apresentamos previsões e valores reais de períodos anteriores ao atual.
+> Para fins de comparação, também apresentamos a seguir previsões e valores reais de períodos anteriores ao atual.
 > As previsões foram geradas com base em dados limitados até o mês 6.
 
 ---
