@@ -1,13 +1,18 @@
- ########### [QuantImport](https://quantimportbrazil.github.io/Sobre/) ###########  
+<header>
+    <h1><a href="https://quantimportbrazil.github.io/Sobre/">QuantImport</a></h1>
+</header>
 
-# Previsão de Importação - Sorriso-MT  
-
-> Emissão: 06-2025  
-> Para comparação, são também informadas as previsões e os valores reais em período(s) anterior(es) ao corrente.  
-> As previsões foram produzidas com base em dados limitados até o mês 6, respectivamente.  
-***[Home](https://quantimportbrazil.github.io/Sobre/)***   
-***[Selecione o Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)***  
 ---
+
+# Previsão de Importação - Sorriso-MT
+
+> **Emissão:** 06-2025
+> Para fins de comparação, também apresentamos previsões e valores reais de períodos anteriores ao atual.
+> As previsões foram geradas com base em dados limitados até o mês 6.
+
+---
+
+**[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
 
 
 ![Gráfico de Previsão](31022100.png)
