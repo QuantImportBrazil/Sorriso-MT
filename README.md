@@ -15,6 +15,4 @@
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
 
 
-![Gráfico de Previsão](31022100.png)
-
 ![Gráfico de Previsão](31042090.png)
