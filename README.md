@@ -25,10 +25,10 @@ Previsão Influenciada:
 - Mês previsto: 06
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Adubos (fertilizantes) (31)
-        - UF GO
-        - Unidade sm_diff
+Fator Influenciador: Comércio Exterior
+- Produto Adubos (fertilizantes) (31)
+- UF GO
+- Unidade sm_diff
 \n
 
 
@@ -44,10 +44,10 @@ Previsão Influenciada:
 - Mês previsto: 09
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Adubos (fertilizantes) (31)
-        - UF MT
-        - Unidade sm
+Fator Influenciador: Comércio Exterior
+- Produto Adubos (fertilizantes) (31)
+- UF MT
+- Unidade sm
 \n
 
 
@@ -63,10 +63,10 @@ Previsão Influenciada:
 - Mês previsto: 05
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Adubos (fertilizantes) (31)
-        - UF MA
-        - Unidade kt_mun
+Fator Influenciador: Comércio Exterior
+- Produto Adubos (fertilizantes) (31)
+- UF MA
+- Unidade kt_mun
 \n
 
 
