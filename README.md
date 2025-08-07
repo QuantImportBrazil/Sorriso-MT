@@ -22,13 +22,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Sorriso
 - Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 06
+- Mês: 06
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Adubos (fertilizantes) (31)
-- UF GO
-- Unidade sm_diff
+- Produto: Adubos (fertilizantes) (31)
+- UF: GO
+- Unidade: sm_diff
 \n
 
 
@@ -41,13 +41,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Sorriso
 - Produto (NCM): Sulfato de amônio-31022100 
-- Mês previsto: 09
+- Mês: 09
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Adubos (fertilizantes) (31)
-- UF MT
-- Unidade sm
+- Produto: Adubos (fertilizantes) (31)
+- UF: MT
+- Unidade: sm
 \n
 
 
@@ -60,13 +60,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Sorriso
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 05
+- Mês: 05
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Adubos (fertilizantes) (31)
-- UF MA
-- Unidade kt_mun
+- Produto: Adubos (fertilizantes) (31)
+- UF: MA
+- Unidade: kt_mun
 \n
 
 
