@@ -29,7 +29,8 @@ Fator Influenciador: Comércio Exterior
 - Produto: Adubos (fertilizantes) (31)
 - UF: GO
 - Unidade: sm_diff
-\n
+
+
 
 
 
@@ -48,7 +49,8 @@ Fator Influenciador: Comércio Exterior
 - Produto: Adubos (fertilizantes) (31)
 - UF: MT
 - Unidade: sm
-\n
+
+
 
 
 
@@ -67,6 +69,7 @@ Fator Influenciador: Comércio Exterior
 - Produto: Adubos (fertilizantes) (31)
 - UF: MA
 - Unidade: kt_mun
-\n
+
+
 
 
