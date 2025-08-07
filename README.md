@@ -33,6 +33,12 @@ Fator Influenciador: Comércio Exterior
 
 
 
+
+
+
+
+
+
 .
 
 ![Gráfico de Previsão](31022100.png)
@@ -53,6 +59,12 @@ Fator Influenciador: Comércio Exterior
 
 
 
+
+
+
+
+
+
 .
 
 ![Gráfico de Previsão](31042090.png)
@@ -69,6 +81,12 @@ Fator Influenciador: Comércio Exterior
 - Produto: Adubos (fertilizantes) (31)
 - UF: MA
 - Unidade: kt_mun
+
+
+
+
+
+
 
 
 
