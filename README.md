@@ -16,79 +16,60 @@
 
 
 ![Gráfico de Previsão](31021010.png)
-
-Fator de Influência em Destaque nos últimos 8 anos:
-
+Fator de Influência em Destaque:
 Previsão Influenciada:
 - Município: Sorriso
 - Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês: 06
+- Mês previsto: 06
 
 
-Fator Influenciador: Comércio Exterior
-- Produto: Adubos (fertilizantes) (31)
-- UF: GO
-- Unidade: sm_diff
-
-
-
-
+Fator Influenciador: Comex
+- Município: Maringá
+- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Mês previsto: 12
+- Unidade: kt_lag12
 
 
 
 
 
 
-.
 
 ![Gráfico de Previsão](31022100.png)
-
-Fator de Influência em Destaque nos últimos 8 anos:
-
+Fator de Influência em Destaque:
 Previsão Influenciada:
 - Município: Sorriso
 - Produto (NCM): Sulfato de amônio-31022100 
-- Mês: 09
+- Mês previsto: 09
 
 
-Fator Influenciador: Comércio Exterior
-- Produto: Adubos (fertilizantes) (31)
-- UF: MT
-- Unidade: sm
-
-
-
-
+Fator Influenciador: Comex
+- Município: Maringá
+- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Mês previsto: 12
+- Unidade: kt_lag12
 
 
 
 
 
 
-.
 
 ![Gráfico de Previsão](31042090.png)
-
-Fator de Influência em Destaque nos últimos 8 anos:
-
+Fator de Influência em Destaque:
 Previsão Influenciada:
 - Município: Sorriso
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês: 05
+- Mês previsto: 05
 
 
-Fator Influenciador: Comércio Exterior
-- Produto: Adubos (fertilizantes) (31)
-- UF: MA
-- Unidade: kt_mun
-
-
-
-
+Fator Influenciador: Comex
+- Município: Maringá
+- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Mês previsto: 12
+- Unidade: kt_lag12
 
 
 
 
 
-
-.
