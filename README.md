@@ -21,14 +21,14 @@ Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Sorriso
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 01
+- Mês previsto: 05
 
 
 Fator Influenciador: Comex
 - Unidade Federativa: MT
-- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
-- Mês: 7
-- Unidade: kt_lag13
+- Grupo de Produto (SH2): Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais-23 
+- Mês: 3
+- Unidade: price_mun_lag13
 
 
 
