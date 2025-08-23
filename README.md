@@ -15,6 +15,48 @@
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
 
 
+![Gráfico de Previsão](31021010.png)
+Fator de Influência em Destaque:
+Previsões emitidas no mês 8.
+Previsão Influenciada:
+- Município: Sorriso
+- Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
+- Mês previsto: 11
+
+
+Fator Influenciador: Quantidade em Comex
+- Unidade Federativa: MS
+- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
+- Mês: 3
+- Unidade: kt_mun
+
+
+
+
+
+
+
+![Gráfico de Previsão](31022100.png)
+Fator de Influência em Destaque:
+Previsões emitidas no mês 8.
+Previsão Influenciada:
+- Município: Sorriso
+- Produto (NCM): Sulfato de amônio-31022100 
+- Mês previsto: 11
+
+
+Fator Influenciador: Quantidade em Comex
+- Unidade Federativa: MS
+- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
+- Mês: 3
+- Unidade: kt_mun
+
+
+
+
+
+
+
 ![Gráfico de Previsão](31042090.png)
 Fator de Influência em Destaque:
 Previsões emitidas no mês 8.
@@ -24,9 +66,9 @@ Previsão Influenciada:
 - Mês previsto: 05
 
 
-Fator Influenciador: Comex
-- Unidade Federativa: PR
-- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
+Fator Influenciador: Quantidade em Comex
+- Unidade Federativa: MG
+- Grupo de Produto (SH2): Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais-23 
 - Mês: 3
 - Unidade: sm
 
